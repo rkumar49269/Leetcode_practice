@@ -20,8 +20,8 @@ public:
         }
 
         for(int i=3;i<=n;i++){
-            prefUp[0] = 0;
-            prefDown[0] = 0;
+            // prefUp[0] = 0;
+            // prefDown[0] = 0;
 
             for(int i=0;i<m;i++){
                 prefUp[i+1] = (prefUp[i] + dpUp[i]) % MOD;
