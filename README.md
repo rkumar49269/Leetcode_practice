@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
