@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Two Pointers
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 <!---LeetCode Topics End-->
