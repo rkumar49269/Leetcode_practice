@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -88,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rkumar49269/Leetcode_practice/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
