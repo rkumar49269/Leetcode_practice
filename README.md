@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0790-domino-and-tromino-tiling](https://github.com/rkumar49269/Leetcode_practice/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
