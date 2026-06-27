@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rkumar49269/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
