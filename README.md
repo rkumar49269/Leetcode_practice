@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
+| [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rkumar49269/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
