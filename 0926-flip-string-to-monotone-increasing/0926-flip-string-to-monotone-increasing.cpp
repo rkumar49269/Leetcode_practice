@@ -29,7 +29,17 @@ public:
     }
     int minFlipsMonoIncr(string s) {
         int n = s.length();
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-        return solve(s, 0, 0, dp);
+        // vector<vector<int>> dp(n, vector<int>(2, -1));
+        // return solve(s, 0, 0, dp);
+
+        int count_of_ones = 0;
+        int flips = 0;
+
+        for(auto c: s){
+            if(c == '1') count_of_ones++;
+            else flips = min(flips+1, count_of_ones);
+        }
+
+        return flips;
     }
 };
