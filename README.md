@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
@@ -161,14 +162,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
