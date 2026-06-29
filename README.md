@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/rkumar49269/Leetcode_practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0790-domino-and-tromino-tiling](https://github.com/rkumar49269/Leetcode_practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
+| [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/rkumar49269/Leetcode_practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
