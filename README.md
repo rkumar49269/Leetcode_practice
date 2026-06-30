@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
