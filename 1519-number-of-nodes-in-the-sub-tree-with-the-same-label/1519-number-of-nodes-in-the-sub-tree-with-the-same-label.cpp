@@ -1,25 +1,22 @@
 class Solution {
 public:
-    vector<int> dfs(unordered_map<int, vector<int>>& adj, int node, int parent, vector<int>& result, string& labels){
-        vector<int> my_count(26, 0);
+    void dfs(unordered_map<int, vector<int>>& adj, int node, int parent, vector<int>& result, string& labels, vector<int>& count){
         char label = labels[node];
 
-        my_count[label - 'a'] = 1;
+        int before = count[label - 'a'];
+
+        count[label - 'a'] += 1;
 
         for(auto& v : adj[node]){
             if(v == parent) continue;
 
-            vector<int> child_count(26, 0);
-            child_count = dfs(adj, v, node, result, labels);
-
-            for(int i = 0; i < 26; i++){
-                my_count[i] += child_count[i];
-            }
+            dfs(adj, v, node, result, labels, count);
 
         }
-        result[node] = my_count[label - 'a'];
+        
+        int after = count[label - 'a'];
 
-        return my_count;
+        result[node] = after - before;
     }
     vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) {
         unordered_map<int, vector<int>> adj;
@@ -32,7 +29,9 @@ public:
         }
 
         vector<int> result(n, 0);
-        dfs(adj, 0, -1, result, labels);
+        vector<int> count(26, 0);
+
+        dfs(adj, 0, -1, result, labels, count);
 
         return result;
     }
