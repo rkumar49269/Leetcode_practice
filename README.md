@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -215,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rkumar49269/Leetcode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rkumar49269/Leetcode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 ## Tree
