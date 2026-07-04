@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/rkumar49269/Leetcode_practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
