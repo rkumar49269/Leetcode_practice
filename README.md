@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rkumar49269/Leetcode_practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rkumar49269/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rkumar49269/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/rkumar49269/Leetcode_practice/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 ## Sliding Window
 |  |
 | ------- |
