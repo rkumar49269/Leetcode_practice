@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rkumar49269/Leetcode_practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2466-count-ways-to-build-good-strings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2466-count-ways-to-build-good-strings) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
