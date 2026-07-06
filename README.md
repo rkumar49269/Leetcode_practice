@@ -286,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/rkumar49269/Leetcode_practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/rkumar49269/Leetcode_practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
