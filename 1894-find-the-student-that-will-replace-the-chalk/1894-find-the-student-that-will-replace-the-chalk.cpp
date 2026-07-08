@@ -2,7 +2,7 @@ class Solution {
 public:
     int chalkReplacer(vector<int>& chalk, int k) {
         int n = chalk.size();
-        int ans;
+        
         long long sum = 0;
         for(const int& x : chalk){
             sum += x;
@@ -14,6 +14,6 @@ public:
             if(rem < chalk[i]) return i;
             rem -= chalk[i];
         }
-        return ans;
+        return -1;
     }
 };
