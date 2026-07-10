@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/rkumar49269/Leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rkumar49269/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/rkumar49269/Leetcode_practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -332,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
