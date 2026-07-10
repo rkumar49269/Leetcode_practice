@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rkumar49269/Leetcode_practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rkumar49269/Leetcode_practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2466-count-ways-to-build-good-strings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2466-count-ways-to-build-good-strings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/rkumar49269/Leetcode_practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -233,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -291,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rkumar49269/Leetcode_practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
