@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1905-count-sub-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rkumar49269/Leetcode_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/rkumar49269/Leetcode_practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/rkumar49269/Leetcode_practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1905-count-sub-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rkumar49269/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
@@ -350,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/rkumar49269/Leetcode_practice/tree/master/0808-soup-servings) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
