@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
