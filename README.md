@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rkumar49269/Leetcode_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1905-count-sub-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/1905-count-sub-islands) |
+| [1929-concatenation-of-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/rkumar49269/Leetcode_practice/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rkumar49269/Leetcode_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1929-concatenation-of-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rkumar49269/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
