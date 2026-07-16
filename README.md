@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1470-shuffle-the-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
