@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/rkumar49269/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/rkumar49269/Leetcode_practice/tree/master/0983-minimum-cost-for-tickets) |
