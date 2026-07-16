@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -383,5 +384,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
