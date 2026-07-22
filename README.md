@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -425,4 +426,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## String Matching
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## Hash Function
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
