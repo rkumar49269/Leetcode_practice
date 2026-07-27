@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rkumar49269/Leetcode_practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rkumar49269/Leetcode_practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rkumar49269/Leetcode_practice/tree/master/3620-network-recovery-pathways) |
