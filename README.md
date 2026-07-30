@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/rkumar49269/Leetcode_practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rkumar49269/Leetcode_practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rkumar49269/Leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
