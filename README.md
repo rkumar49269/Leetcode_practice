@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/rkumar49269/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rkumar49269/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/rkumar49269/Leetcode_practice/tree/master/0790-domino-and-tromino-tiling) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rkumar49269/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/rkumar49269/Leetcode_practice/tree/master/0808-soup-servings) |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/rkumar49269/Leetcode_practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1406-stone-game-iii) |
 ## Probability and Statistics
