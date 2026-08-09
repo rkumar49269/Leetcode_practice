@@ -498,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
