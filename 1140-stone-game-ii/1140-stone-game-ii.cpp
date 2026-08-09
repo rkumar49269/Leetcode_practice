@@ -11,7 +11,7 @@ public:
         int stones = 0;
 
         for(int x = 1; x <= min(2*m, n-i); x++){
-            stones += piles[i+x-1];
+            stones += piles[i + x - 1];
             if(person == 1){
                 result = max(result, stones + solveForAlice(piles, 0, i+x, max(x, m)));
             }
