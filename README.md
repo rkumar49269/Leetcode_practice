@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/rkumar49269/Leetcode_practice/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/rkumar49269/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/rkumar49269/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
@@ -520,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/rkumar49269/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/rkumar49269/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
