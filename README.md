@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/rkumar49269/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0087-scramble-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
