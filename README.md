@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rkumar49269/Leetcode_practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rkumar49269/Leetcode_practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2421-number-of-good-paths](https://github.com/rkumar49269/Leetcode_practice/tree/master/2421-number-of-good-paths) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkumar49269/Leetcode_practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rkumar49269/Leetcode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rkumar49269/Leetcode_practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rkumar49269/Leetcode_practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -530,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/rkumar49269/Leetcode_practice/tree/master/0459-repeated-substring-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rkumar49269/Leetcode_practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
