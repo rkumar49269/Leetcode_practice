@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rkumar49269/Leetcode_practice/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/rkumar49269/Leetcode_practice/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1402-reducing-dishes](https://github.com/rkumar49269/Leetcode_practice/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -512,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rkumar49269/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
