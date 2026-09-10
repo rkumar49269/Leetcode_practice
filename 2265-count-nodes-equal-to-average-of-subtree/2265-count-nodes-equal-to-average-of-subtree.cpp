@@ -22,9 +22,6 @@ public:
     }
     void solve(TreeNode* root){
         if(root == NULL) return;
-        
-        solve(root->left);
-        solve(root->right);
 
         int cnt = 0;
         int sum = findSum(root, cnt);
@@ -33,6 +30,8 @@ public:
 
         if(avg == root->val) result++;
 
+        solve(root->left);
+        solve(root->right);
     }
     int averageOfSubtree(TreeNode* root) {
         solve(root);
