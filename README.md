@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/rkumar49269/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
