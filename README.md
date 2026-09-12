@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rkumar49269/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rkumar49269/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rkumar49269/Leetcode_practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rkumar49269/Leetcode_practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2029-stone-game-ix](https://github.com/rkumar49269/Leetcode_practice/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -651,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
