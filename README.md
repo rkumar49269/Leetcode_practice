@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/rkumar49269/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rkumar49269/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rkumar49269/Leetcode_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
