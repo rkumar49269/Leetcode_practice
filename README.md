@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/1331-rank-transform-of-an-array) |
