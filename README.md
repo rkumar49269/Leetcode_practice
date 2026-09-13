@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rkumar49269/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rkumar49269/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/rkumar49269/Leetcode_practice/tree/master/0835-image-overlap) |
 | [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/rkumar49269/Leetcode_practice/tree/master/0983-minimum-cost-for-tickets) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/rkumar49269/Leetcode_practice/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/rkumar49269/Leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1905-count-sub-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/1905-count-sub-islands) |
