@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/rkumar49269/Leetcode_practice/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/rkumar49269/Leetcode_practice/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2466-count-ways-to-build-good-strings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2466-count-ways-to-build-good-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rkumar49269/Leetcode_practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rkumar49269/Leetcode_practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rkumar49269/Leetcode_practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/rkumar49269/Leetcode_practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rkumar49269/Leetcode_practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rkumar49269/Leetcode_practice/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rkumar49269/Leetcode_practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rkumar49269/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rkumar49269/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
