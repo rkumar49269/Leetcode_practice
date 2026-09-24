@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rkumar49269/Leetcode_practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rkumar49269/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0283-move-zeroes) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rkumar49269/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/rkumar49269/Leetcode_practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rkumar49269/Leetcode_practice/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/rkumar49269/Leetcode_practice/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/rkumar49269/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/0394-decode-string) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/rkumar49269/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/rkumar49269/Leetcode_practice/tree/master/0264-ugly-number-ii) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rkumar49269/Leetcode_practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 ## Divide and Conquer
 |  |
@@ -681,4 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rkumar49269/Leetcode_practice/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
