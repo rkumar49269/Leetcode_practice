@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rkumar49269/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rkumar49269/Leetcode_practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rkumar49269/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/rkumar49269/Leetcode_practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/rkumar49269/Leetcode_practice/tree/master/0835-image-overlap) |
 | [0879-profitable-schemes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0879-profitable-schemes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rkumar49269/Leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/rkumar49269/Leetcode_practice/tree/master/0704-binary-search) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/rkumar49269/Leetcode_practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rkumar49269/Leetcode_practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/rkumar49269/Leetcode_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
