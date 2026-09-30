@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkumar49269/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/rkumar49269/Leetcode_practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rkumar49269/Leetcode_practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/rkumar49269/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rkumar49269/Leetcode_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rkumar49269/Leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/rkumar49269/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rkumar49269/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/rkumar49269/Leetcode_practice/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/rkumar49269/Leetcode_practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/rkumar49269/Leetcode_practice/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rkumar49269/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/rkumar49269/Leetcode_practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/rkumar49269/Leetcode_practice/tree/master/0834-sum-of-distances-in-tree) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0886-possible-bipartition](https://github.com/rkumar49269/Leetcode_practice/tree/master/0886-possible-bipartition) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/rkumar49269/Leetcode_practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1905-count-sub-islands](https://github.com/rkumar49269/Leetcode_practice/tree/master/1905-count-sub-islands) |
